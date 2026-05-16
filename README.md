@@ -62,10 +62,6 @@ Compile o código-fonte para a pasta `target`:
 mvn compile
 ```
 
-### 4️⃣ Configuração de Variáveis de Ambiente
-
-[Insira aqui informações sobre variáveis de ambiente, se houver]
-
 ---
 
 ## 🚀 Como Executar
@@ -119,8 +115,6 @@ Escolha uma opcao:
 ---
 
 ## 🧪 Como Testar
-
-[Insira aqui informações sobre testes automatizados, se houver]
 
 Atualmente, o projeto não possui testes automatizados configurados. Para implementar testes unitários, recomenda-se adicionar as seguintes dependências ao `pom.xml`:
 
@@ -183,18 +177,6 @@ Este projeto segue o padrão **Model-View-Controller (MVC)**:
 - ✅ Validação de saldo antes de realizar saques
 - ✅ Rejeição de valores negativos ou inválidos
 - ✅ Mensagens de erro amigáveis ao usuário
-
----
-
-## 🤝 Contribuindo
-
-[Insira aqui informações sobre como contribuir para o projeto]
-
----
-
-## 📄 Licença
-
-[Insira aqui informações sobre a licença do projeto]
 
 ---
 
